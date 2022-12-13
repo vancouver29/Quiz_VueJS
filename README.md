@@ -27,3 +27,18 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Demo 
+
+Question 1
+![quiz_vue](src/descriptions/images/quiz_vue.png)
+
+Question 2
+![quiz_vue1](src/descriptions/images/quiz_vue1.png)
+
+Result 1
+![quiz_result1](src/descriptions/images/quiz_result1.png)
+
+Result 2
+![quiz_result](src/descriptions/images/quiz_result.png)
+
